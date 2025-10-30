@@ -1,2 +1,3 @@
 # DutchVocabulary
-Github pages which dutch vocabulary
+
+1. [Adjectives](/adjectives.md)
