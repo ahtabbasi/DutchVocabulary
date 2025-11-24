@@ -1,0 +1,17 @@
+I need to practice Dutch verb conjugation for regular verbs. 
+Give me 20 English sentences to translate to dutch in an MD file. 
+
+The english sentences should be present tense sentences. 
+The english sentences must also contain some questions and some negative statements. 
+The english sentences must also contain some sentences that will result in Inversie in Dutch.
+The english sentences must also contain some sentences that contain a main clause + conjugation + subordinate clause.
+The english sentences must also contain some sentences that contain conjugation + subordinate clause + , + a main clause.
+The english sentences must also contain some sentences that will result in dutch sentences that include dutch modal verbs.
+The english sentences must also contain some sentences that will result in dutch sentences with reflexive verbs.
+The english sentences must also contain some sentences that will result in dutch sentences with separable verbs.
+
+The level of language should be A2. 
+For each sentence, after it, write the answers(dutch translation present tense, perfectum tense, imperfectum tense) 
+in a collapsible format.
+
+File name format: practice/regular_verbs_practice/regular_verbs_practice_{file_number}.md
