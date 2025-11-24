@@ -7,7 +7,10 @@ Practice translating these English sentences to Dutch. Focus on regular verb con
 ## 1. I clean up the living room before lunch.
 
 <details>
-<summary>Click to see answers</summary>
+  
+<summary>
+Click to see answers
+</summary>
 
 **Present tense:** Ik ruim de woonkamer op voor de lunch.
 
