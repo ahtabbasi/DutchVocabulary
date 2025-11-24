@@ -2,7 +2,7 @@
 
 | # | English | Dutch | Opposite | Dutch |
 |---|---|---|---|---|
-| 1 | big | <details> <summary> Show </summary> groot </details> | small | <details><summary>Show</summary>klein</details> |
+| 1 | big | <details><summary>Show</summary>groot</details> | small | <details><summary>Show</summary>klein</details> |
 | 2 | long | <details><summary>Show</summary>lang</details> | short | <details><summary>Show</summary>kort</details> |
 | 3 | old | <details><summary>Show</summary>oud</details> | young | <details><summary>Show</summary>jong</details> |
 | 4 | fast | <details><summary>Show</summary>snel</details> | slow | <details><summary>Show</summary>langzaam</details> |
