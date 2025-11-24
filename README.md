@@ -1,7 +1,5 @@
 # LearningDutch
 
-## Practice Index
-
 > Disclaimer: This is AI generated content so please be careful!
 
 - **Adjectives & Adverbs**
