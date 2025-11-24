@@ -1,0 +1,18 @@
+# Site settings
+title: Learn Dutch with Ahtsham
+description: Dutch practice material which actually works
+
+# Theme settings
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+  - jekyll-remote-theme   # Required to use remote themes
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM        # Use GitHub Flavored Markdown
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+# Optional: Permalinks
+permalink: /:title/
